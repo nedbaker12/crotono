@@ -1,6 +1,6 @@
 {
-  "name": "crotono",
-  "version": "1.3.0",
+  "name": "croton",
+  "version": "2.0.0",
   "description": "Nexstack Nodejs library that provides an Api for obtaining the movies information website.",
   "main": "dist/index.js",
   "scripts": {
